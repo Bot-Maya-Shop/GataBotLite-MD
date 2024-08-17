@@ -226,3 +226,4 @@ Set-ExecutionPolicy RemoteSigned
 <a href="https://github.com/GataNina-Li/GataBotLite-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=GataNina-Li/GataBotLite-MD" /> 
 </a>
+termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
